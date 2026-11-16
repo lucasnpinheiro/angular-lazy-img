@@ -24,7 +24,7 @@
     "gulp-concat": "~2.2.0",
     "gulp": "~3.6.2",
     "gulp-uglify": "~0.2.1",
-    "karma": "~0.12.9",
+    "karma": "~6.4.4",
     "gulp-karma": "0.0.4",
     "mocha": "~1.18.2",
     "karma-mocha": "~0.1.3",
